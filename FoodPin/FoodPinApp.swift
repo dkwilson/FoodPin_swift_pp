@@ -1,8 +1,8 @@
 //
 //  FoodPinApp.swift
-//  Shared
+//  FoodPin
 //
-//  Created by Dkeith Wilson on 1/7/22.
+//  Created by Simon Ng on 21/9/2021.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct FoodPinApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RestaurantListView()
         }
     }
 }
