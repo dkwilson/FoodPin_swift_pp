@@ -13,6 +13,7 @@
 		5BE5532A2788D71F00C62918 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BE553242788D71F00C62918 /* Preview Assets.xcassets */; };
 		5BE5532B2788D71F00C62918 /* RestaurantListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE553262788D71F00C62918 /* RestaurantListView.swift */; };
 		5BE5532D278905B700C62918 /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE5532C278905B700C62918 /* ActivityView.swift */; };
+		5BE5532F2789258700C62918 /* RestaurantDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE5532E2789258700C62918 /* RestaurantDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5BE553242788D71F00C62918 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5BE553262788D71F00C62918 /* RestaurantListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RestaurantListView.swift; sourceTree = "<group>"; };
 		5BE5532C278905B700C62918 /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
+		5BE5532E2789258700C62918 /* RestaurantDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 			children = (
 				5BE553262788D71F00C62918 /* RestaurantListView.swift */,
 				5BE5532C278905B700C62918 /* ActivityView.swift */,
+				5BE5532E2789258700C62918 /* RestaurantDetailView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BE5532B2788D71F00C62918 /* RestaurantListView.swift in Sources */,
+				5BE5532F2789258700C62918 /* RestaurantDetailView.swift in Sources */,
 				5BE5532D278905B700C62918 /* ActivityView.swift in Sources */,
 				5BE553292788D71F00C62918 /* Restaurant.swift in Sources */,
 				5BE553282788D71F00C62918 /* FoodPinApp.swift in Sources */,
